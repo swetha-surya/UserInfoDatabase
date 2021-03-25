@@ -1,4 +1,4 @@
-# UserInfoDatabase
+# UserInfoDatabase - Content Personalization Engine\
 Creating a Database to collect user engagement data\
 The main purpose of this database is to track user engagement that can be used analyze user behavior and track application performance for serving relevant and personalized application content\
 The SQL script includes\
